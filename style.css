@@ -191,19 +191,20 @@ border-bottom-right-radius: 35px;
 #service{
     width: 100%;
     padding: 70px 0;
-    background: #155bdd;   
+    background: #1a17d1;   
 }
 .service-box{
-   width: 100%;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     margin: auto;
+    flex-wrap: wrap;
 }
 .single-service{
-    flex-basis: 45%;
+    flex-basis: 28%;
     text-align: center;
     border-radius: 7px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #fff; 
     position: relative;   
 }
@@ -318,12 +319,12 @@ hr{
 }
 /*footer*/
 #footer{
-    padding: 100px 0 20px;
+    padding: 7px 0 20px;
     background: #efefef;
 
 }
 .footer-row{
-    width:80% ;
+    width:100% ;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -353,8 +354,8 @@ hr{
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        width: 4.5rem;
-        height: 4.5rem;
+        width: 3.5rem;
+        height: 3.5rem;
         background: transparent;
         border: 2px solid var(--main-color);
         font-size: 2.5rem;
@@ -375,8 +376,8 @@ hr{
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        width: 4.5rem;
-        height: 4.5rem;
+        width: 3.5rem;
+        height: 3.5rem;
         background-color: transparent;
         border: 2px solid var(--main-color);
         font-size: 2.5rem;

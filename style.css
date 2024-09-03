@@ -194,9 +194,8 @@ border-bottom-right-radius: 35px;
     background: #155bdd;   
 }
 .service-box{
-    width: 300px;
+   width: 100%;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
     margin: auto;
 }

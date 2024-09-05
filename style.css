@@ -367,7 +367,7 @@ hr{
     }
     .social-icons{
         color: var(--main-color);
-        justify-content: center;
+         text-align: center;
     
       
        

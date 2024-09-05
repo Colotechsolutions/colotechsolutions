@@ -367,11 +367,8 @@ hr{
     }
     .social-icons{
         color: var(--main-color);
-         text-align: center;
-    
-      
-       
-    }
+        text-align: center;
+     }
       .social-icons a{
         display: inline-flex;
         justify-content: center;
